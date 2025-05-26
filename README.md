@@ -1,1 +1,1 @@
-# solidity-basics
+# Solidity Basics
