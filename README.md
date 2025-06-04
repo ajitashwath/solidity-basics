@@ -1,1 +1,1 @@
-# Solidity Basics
+# Solidity Basics - Path to Blockchain
