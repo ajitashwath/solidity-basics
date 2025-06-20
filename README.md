@@ -1,1 +1,2 @@
-# Solidity Basics - Path to Blockchain
+# Solidity Basics
+  - Based on [CryptoZombies](https://cryptozombies.io/)
